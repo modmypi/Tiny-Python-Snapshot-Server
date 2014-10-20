@@ -11,3 +11,7 @@ Tiny-Python-Snapshot-Server
   <li>'snapshot.py' attempts to load the image capture settings for a file named 'snapshot.txt' if it is present in the '/home' directory. If it does not exist, the script uses default settings as defined in the 'DefaultPictureSettings' variable in the script.</li>
   <li>Ensure that the security settings on the 'snapshot.txt' and 'snapshot.py' files restrict access to the intended user / user group.</li>
 </ol>
+
+
+<p>[nwazet Open Source Software & Open Source Hardware<br />
+Authors: Fabien Royer & Bertrand Le Roy</p>
